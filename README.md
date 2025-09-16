@@ -29,6 +29,13 @@ A hybrid project bringing the classic bar game **Hook & Ring** into both the **d
 
 ---
 
+
+![Image](https://github.com/user-attachments/assets/7c710307-ffe8-4a85-876c-9b919975d576)
+![Image](https://github.com/user-attachments/assets/25281020-bffa-40da-b4ee-04f79825e3be)
+<img width="259" height="194" alt="Image" src="https://github.com/user-attachments/assets/3aeaf816-989c-46f6-9f42-445d545c9ca4" />
+![Image](https://github.com/user-attachments/assets/7eb9087d-65d0-45e5-b06d-583becaaea44)
+
+
 ---
 
 ## Visual Game (Browser)
@@ -105,3 +112,6 @@ Next Steps / Ideas
 - `hardware/hook_sensor_mount.scad` parametric OpenSCAD
 - Backplate + standoff pocket for Hall sensor
 - Wire channel, screw holes
+
+
+
